@@ -1,0 +1,11 @@
+# Ignore CLion settings
+.idea/
+
+# Ignore build files
+cmake-build-debug/
+
+# Ignore main files
+main*.cpp
+
+# Ignore CMake configuration files
+CMakeLists.txt
